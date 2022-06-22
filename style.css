@@ -45,13 +45,6 @@ a:hover{text-decoration: none; cursor:pointer;}
 }
 
 
-/* Sizes */
-
-.bloc-lg{
-	padding:100px 20px;
-}
-
-
 /* Light theme */
 
 .d-bloc .card,.l-bloc{
